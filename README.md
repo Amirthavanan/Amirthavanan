@@ -1,6 +1,6 @@
 <!-- HEADER / BANNER -->
 <p align="center">
-  <img src="coder.png" alt="Amirthavanan Banner" width="100%">
+  <img src="assets1/coder.png" alt="Amirthavanan Banner" width="100%">
 </p>
 <!-- GREETING -->
 <h1 align="center">
@@ -18,7 +18,7 @@
 🌱 Currently exploring **Data Analysis, Software Development, and BI Tools**  
 
 <p align="center">
-  <img src="https://i.imgur.com/HuS4m2t.png" alt="Profile Avatar" width="200">
+  <img src="assets1/coder1.png" alt="Profile Avatar" width="200">
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio](https://drive.google.com/file/d/1xgT4iJ8vHt3UBZS3qnEwEGMqrIjdTDDm/view?usp=sharing) |
+| [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio](assets1/portfolio.png) |
 | [**Python Mini Projects**](https://github.com/YourRepo) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](https://i.imgur.com/hW8QG9x.gif) |
 | [**Plato's Pizza BI Dashboard**](https://github.com/YourRepo) | Data visualization & insights in Power BI. | ![Power BI](https://i.imgur.com/UQ7qL7M.png) |
 
