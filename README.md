@@ -1,3 +1,4 @@
+<h3>Full stack develoepr / Data Analyst</h3>
 <!-- HEADER / BANNER -->
 <p align="center">
   <img src="assets1/coder.png" alt="Amirthavanan Banner" width="100%">
