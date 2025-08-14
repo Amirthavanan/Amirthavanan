@@ -18,7 +18,7 @@
 🌱 Currently exploring **Data Analysis, Software Development, and BI Tools**  
 
 <p align="center">
-  <img src="assets1/coder1.png" alt="Profile Avatar" width="200">
+  <img src="assets1/coder1.jpg" alt="Profile Avatar" width="200">
 </p>
 
 ---
