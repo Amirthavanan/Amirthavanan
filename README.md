@@ -41,7 +41,7 @@
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio](https://i.imgur.com/6X1fM1b.gif) |
+| [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio]([https://i.imgur.com/6X1fM1b.gif](https://e7.pngegg.com/pngimages/654/491/png-clipart-portfolio-graphic-design-investment-behance-design-angle-white.png)) |
 | [**Python Mini Projects**](https://github.com/YourRepo) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](https://i.imgur.com/hW8QG9x.gif) |
 | [**Plato's Pizza BI Dashboard**](https://github.com/YourRepo) | Data visualization & insights in Power BI. | ![Power BI](https://i.imgur.com/UQ7qL7M.png) |
 
@@ -49,11 +49,11 @@
 
 ## 🎭 Fun Corner
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ 😄
+> _""The best error message is the one that never shows up."_ 😄
 
-🎯 **Hobbies:** Gaming 🎮, Data Visualization 📊, Traveling 🌍  
-📖 **Currently Reading:** “Atomic Habits” by James Clear  
-💬 **Ask me about:** Python, BI Tools, and turning data into insights.
+🎯 **Hobbies:** Sports 🎮, Photography 📊, Traveling 🌍  
+📖 **Currently learing:** Python with data science 🔬
+💬 **Ask me about:** Python, SQL, HTML, CSS, JavaScript, BI Tools 🖥️
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300">
