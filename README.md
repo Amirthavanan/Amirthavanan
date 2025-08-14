@@ -1,6 +1,6 @@
 <!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/7Xq1P4Q.png" alt="Amirthavanan Banner" width="100%">
+  <img src="[https://i.imgur.com/7Xq1P4Q.png](https://sdmntprnortheu.oaiusercontent.com/files/00000000-1328-61f4-9cb5-7d223af1512d/raw?se=2025-08-14T17%3A25%3A48Z&sp=r&sv=2024-08-04&sr=b&scid=a3c4836a-0bbe-5a12-9603-30f25a8b479a&skoid=a3412ad4-1a13-47ce-91a5-c07730964f35&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-13T19%3A38%3A44Z&ske=2025-08-14T19%3A38%3A44Z&sks=b&skv=2024-08-04&sig=9IMN0FQzLJJ9GkrBLYEcy9SrLc6NJksfJnU49ZC5JHI%3D)" alt="Amirthavanan Banner" width="100%">
 </p>
 
 <!-- GREETING -->
