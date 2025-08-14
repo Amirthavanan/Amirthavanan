@@ -1,13 +1,15 @@
-<h3>Full stack develoepr / Data Analyst</h3>
 <!-- HEADER / BANNER -->
 <p align="center">
   <img src="assets1/coder.png" alt="Amirthavanan Banner" width="100%">
 </p>
+
 <!-- GREETING -->
 <h1 align="center">
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
   I'm <span style="color:#4CAF50;">Amirthavanan</span>
 </h1>
+<h3 align="center">Full stack develoepr / Data Analyst</h3>
+
 
 ---
 
