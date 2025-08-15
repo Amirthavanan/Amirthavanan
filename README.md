@@ -34,12 +34,12 @@
   <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/MySQL.png" width='50' height='50'/>
   <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/HTML5.png" width='50' height='50'/>
   <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/CSS3.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/JavaScript.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Tailwind%20CSS.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Bootstrap.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/GitHub.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/powerbi.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/tableau.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/JavaScript.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Tailwind%20CSS.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Bootstrap.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/GitHub.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/powerbi.png" width='50' height='50'/>
+  <img style='padding-letf:2px' src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/tableau.png" width='50' height='50'/>
   
 </p>
 
