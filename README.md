@@ -29,7 +29,7 @@
 ## 🛠 Skills & Technologies
 
 <p align="center">
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Python.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Python.png" width='50' height='50'/>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
