@@ -30,16 +30,16 @@
 
 <p align="center">
   <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Python.png" width='50' height='50'/>
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Django.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/MySQL.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/HTML5.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/CSS3.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/JavaScript.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Tailwind%20CSS.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Bootstrap.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/GitHub.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/powerbi.png" />
-  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/tableau.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Django.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/MySQL.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/HTML5.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/CSS3.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/JavaScript.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Tailwind%20CSS.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Bootstrap.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/GitHub.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/powerbi.png" width='50' height='50'/>
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/tableau.png" width='50' height='50'/>
   
 </p>
 
