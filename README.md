@@ -58,7 +58,7 @@
 💬 **Ask me about:** Python, SQL, HTML, CSS, JavaScript, BI Tools 🖥️
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="300">
+  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 </p>
 
 ---
