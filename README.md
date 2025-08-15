@@ -30,11 +30,17 @@
 
 <p align="center">
   <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Python.png" width='50' height='50'/>
-  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Django.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/MySQL.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/HTML5.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/CSS3.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/JavaScript.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Tailwind%20CSS.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/Bootstrap.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/GitHub.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/powerbi.png" />
+  <img src="https://github.com/Amirthavanan/Amirthavanan/blob/main/assets1/logo/tableau.png" />
+  
 </p>
 
 ---
