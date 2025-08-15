@@ -44,7 +44,7 @@
 | Project | Description | Preview |
 |---------|-------------|---------|
 | [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio](assets1/portfolio.png) |
-| [**Python Mini Projects**](https://github.com/YourRepo) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](assets1/mini project.webp) |
+| [**Python Mini Projects**](https://github.com/YourRepo) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](assets1/mini proj.jpg) |
 | [**Plato's Pizza BI Dashboard**](https://github.com/YourRepo) | Data visualization & insights in Power BI. | ![Power BI](assets1/dashboard.png) |
 
 ---
