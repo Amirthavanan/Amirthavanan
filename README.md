@@ -53,12 +53,12 @@
 
 > _""The best error message is the one that never shows up."_ 😄
 
-🎯 **Hobbies:** Sports 🎮, Photography 📊, Traveling 🌍  
-📖 **Currently learing:** Python with data science 🔬
-💬 **Ask me about:** Python, SQL, HTML, CSS, JavaScript, BI Tools 🖥️
+🎯 **Hobbies:** Sports 🎮, Photography 📊, Traveling 🌍  </br>
+📖 **Currently learing:** Python with data science 🔬</br>
+💬 **Ask me about:** Python, SQL, HTML, CSS, JavaScript, BI Tools 🖥️</br>
 
 <p align="center">
-  <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+  <img alt="Coder GIF" height=250 width=350 src="assets1/developer.gif" />
 </p>
 
 ---
