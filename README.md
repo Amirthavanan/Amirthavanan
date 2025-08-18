@@ -49,9 +49,9 @@
 
 | Project | Description | Preview |
 |---------|-------------|---------|
-| [**Portfolio Website**](https://github.com/YourRepo) | A personal website showcasing my skills and work. | ![Portfolio](assets1/portfolio.png) |
-| [**Python Mini Projects**](https://github.com/YourRepo) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](assets1/miniproj.jpg) |
-| [**Plato's Pizza BI Dashboard**](https://github.com/YourRepo) | Data visualization & insights in Power BI. | ![Power BI](assets1/dashboard.png) |
+| [**Portfolio Website**](https://github.com/Amirthavanan/Portfolio) | A personal website showcasing my skills and work. | ![Portfolio](assets1/portfolio.png) |
+| [**Python Mini Projects**](https://github.com/Amirthavanan/Mini-projects) | 3 mini-projects using Python (Games, Automation, Analysis). | ![Python](assets1/miniproj.jpg) |
+| [**Plato's Pizza BI Dashboard**]([https://github.com/YourRepo](https://github.com/Amirthavanan/Data-Anlaysis-project)) | Data visualization & insights in Power BI. | ![Power BI](assets1/dashboard.png) |
 
 ---
 
