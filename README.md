@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-🎓 **BCA Graduate** (2020–2023) | **MBA Graduate** (2023–2025)  
+🎓 **BCA Graduate** (2020–2023)
 📍 Based in **Bangalore, India**  
 💡 Passionate about **coding, data analytics, and building impactful solutions**  
 🌱 Currently exploring **Data Analysis, Software Development, and BI Tools**  
