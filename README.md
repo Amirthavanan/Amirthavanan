@@ -8,7 +8,7 @@
   Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
   I'm <span style="color:#4CAF50;">Amirthavanan</span>
 </h1>
-<h3 align="center"> Data Analyst</h3>
+<h3 align="center">AI Data Analyst</h3>
 
 
 ---
@@ -18,7 +18,7 @@
 🎓 **BCA Graduate** (2020–2023)
 📍 Based in **Bangalore, India**  
 💡 Passionate about **coding, data analytics, and building impactful solutions**  
-🌱 Currently exploring **Data Analysis, Software Development, and BI Tools**  
+🌱 Currently exploring **Data Analysis with GEN AI, Software Development, and BI Tools**  
 
 <p align="center">
   <img src="assets1/coder1.jpg" alt="Profile Avatar" width="200">
