@@ -2,7 +2,7 @@
   <p align="center">
   <img src="assets1/coder.png" alt="Amirthavanan Banner" width="100%">
 </p>
-# 👋 Hi, I'm **Amirthavanan N**
+# 👋 Hi, I'm ** Amirthavanan N **
 
 ### AI/ML Engineer • Generative AI • Agentic AI • RAG • MLOps
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:amirthavanan123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amirthavanan123%40gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-amirthavanan123@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
