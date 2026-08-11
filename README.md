@@ -189,9 +189,9 @@ I enjoy taking an AI idea from **data → model/retrieval → API → UI → eva
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Amirthavanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=Amirthavanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirthavanan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirthavanan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" /> -->
 
 <br/><br/>
 
@@ -270,11 +270,11 @@ I'm open to opportunities involving **AI/ML, Generative AI, RAG, Agentic AI, Pyt
 <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/amirthavanan">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/">
+<a href="https://github.com/Amirthavanan">
 <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
