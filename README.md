@@ -2,7 +2,7 @@
   <p align="center">
   <img src="assets1/coder.png" alt="Amirthavanan Banner" width="100%">
 </p>
-# 👋 Hi, I'm ** Amirthavanan N **
+# 👋 Hi, I'm **Amirthavanan N** 
 
 ### AI/ML Engineer • Generative AI • Agentic AI • RAG • MLOps
 
