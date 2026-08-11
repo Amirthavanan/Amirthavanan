@@ -9,15 +9,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=180&section=header&text=Building%20Intelligent%20AI%20Systems&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <p>
-  <a href="https://github.com/">
+  <a href="https://github.com/Amirthavanan">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/amirthavanan">
     <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:amirthavanan123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amirthavanan123@gmail.com?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+
 </p>
 
 <p>
